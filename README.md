@@ -59,8 +59,11 @@ I contributed to the complete development of this project, including:
 
 - ---
 
+---
+
 ## 📚 Project Documentation
 
+- 📄 [Final Project Report](./project-documents/finall%20report(057).pdf)
 - 📄 [Project Phase 2 Report](./project-documents/Project%20phase%202%20%28updated%29.pdf)
 - 📄 [Drillbit Report](./project-documents/drillbit%20report.pdf)
 - 📑 [Project Synopsis](./project-documents/synopsis%202.pdf)
