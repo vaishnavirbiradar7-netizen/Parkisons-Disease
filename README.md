@@ -44,17 +44,15 @@ This establishes a very strong non-invasive metric for assessing early progressi
 
 ---
 
----
-
 ## 👩‍💻 My Contribution
 
-As a member of the project team, I contributed across the complete development lifecycle, including:
+I contributed to the complete development of this project, including:
 
-- Data collection and preprocessing
-- Exploratory data analysis and feature understanding
-- Implementation and training of machine learning models
+- Data preprocessing and analysis
+- Feature engineering and feature scaling
+- Machine learning model implementation and training
 - Model evaluation and performance comparison
-- Data balancing and feature scaling
+- Data balancing
 - Testing and debugging
 - Project documentation and presentation
 - Overall project development and integration
