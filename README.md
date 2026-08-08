@@ -56,3 +56,11 @@ I contributed to the complete development of this project, including:
 - Testing and debugging
 - Project documentation and presentation
 - Overall project development and integration
+
+- ---
+
+## 📚 Project Documentation
+
+- 📄 [Project Phase 2 Report](./project-documents/Project%20phase%202%20%28updated%29.pdf)
+- 📄 [Drillbit Report](./project-documents/drillbit%20report.pdf)
+- 📑 [Project Synopsis](./project-documents/synopsis%202.pdf)
