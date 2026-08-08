@@ -41,3 +41,20 @@ Rigorous testing guarantees the data is un-leaked before modeling. As shown in t
 *   **Random Forests:** ~89-92% Accuracy.
 
 This establishes a very strong non-invasive metric for assessing early progression. Enjoy the project!
+
+---
+
+---
+
+## 👩‍💻 My Contribution
+
+As a member of the project team, I contributed across the complete development lifecycle, including:
+
+- Data collection and preprocessing
+- Exploratory data analysis and feature understanding
+- Implementation and training of machine learning models
+- Model evaluation and performance comparison
+- Data balancing and feature scaling
+- Testing and debugging
+- Project documentation and presentation
+- Overall project development and integration
